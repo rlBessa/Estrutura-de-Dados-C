@@ -1,5 +1,5 @@
 # AED2 - Algoritmos e Estruturas de Dados
-Este capítulo contempla todo o conteúdo da disciplina "Algoritmos e Estruturas de Dados 2" e servirá como um repositório para desenolvimento e consulta dos projetos e programas.
+Este capítulo contempla todo o conteúdo da disciplina "Algoritmos e Estruturas de Dados 2" e servirá como um repositório para desenvolvimento e consulta dos projetos e programas.
 
 ## Árvores 
 * formas de representação
