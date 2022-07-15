@@ -1,6 +1,4 @@
-# AED2 - Algoritmos e Estruturas de Dados
-Este capítulo contempla todo o conteúdo da disciplina "Algoritmos e Estruturas de Dados 2" e servirá como um repositório para desenvolvimento e consulta dos projetos e programas.
-
+# Algoritmos e Estruturas de Dados
 ## Árvores 
 * Formas de representação
 * Recursão em árvores 
@@ -17,5 +15,5 @@ Este capítulo contempla todo o conteúdo da disciplina "Algoritmos e Estruturas
 * Tratamento de colisões
 
 ## Definições de Grafos 
-* Estruturas de Dados para representação de grafos. 
+* Estruturas de Dados para representação de grafos 
 * Algoritmos básicos em grafos
